@@ -1,0 +1,2 @@
+# BOOTH_LISENSE
+BOOTH販売品のライセンス
