@@ -5,7 +5,7 @@ LICENSE Agreement (English follows after Japanese)
 1. 本3Dモデルデータ(以下「本モデル」)の利用者(以下「利用者」)は本モデルを購入した時点で下記の規約(以下「本規約」)に同意したものとみなします。
 2. 本規約は予告なく改訂される場合があり、最新のものが適用されます。
 最新の規約および変更内容は下記のURLで確認することができます。
-( https://github.com/Kozu-vr/BOOTH_LISENSE/3DModel/LISENSE.md )
+( https://github.com/Kozu-vr/BOOTH_LISENSE/blob/master/3DModel/LISENSE.md )
 3. 本規約が変更された場合、Kozu(以下「作者」)はBOOTH内ページに変更の旨を記載するものとし、利用者は変更後に利用した段階で変更内容に承諾したものとみなします。
 4. 日本語と英語の規約に不一致がある場合、日本語の規約が優先されるものとします。
 
@@ -48,7 +48,7 @@ This License is made effective between you and Kozu upon making a purchase of an
 1. By purchasing this 3D model("Model"), you agree that you have read and agree with this Terms and Conditions("License").
 2. Kozu may revise and update this License at any time and without notice.
 The latest License can be confirmed by the following URL.
-( https://github.com/Kozu-vr/BOOTH_LISENSE/3DModel/LISENSE.md )
+( https://github.com/Kozu-vr/BOOTH_LISENSE/blob/master/3DModel/LISENSE.md )
 3. If the License is changed, Kozu shall state the change in the page in BOOTH, and you acknowledge and agree the change contents at the time of using after the change.
 4. If this Japanese version of the Terms and Conditions does not conform to English versions, the Japanese version shall prevail.
 
